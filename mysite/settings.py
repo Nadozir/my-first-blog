@@ -25,7 +25,7 @@ SECRET_KEY = 'qh9(so4orty7uz6wr_3fbrv=#r1v4%vv(ct73uzej2&t0gp46c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [Nadozir.pythonanywhere.com]
 
 
 # Application definition
